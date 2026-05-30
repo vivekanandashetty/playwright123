@@ -1,0 +1,15 @@
+- region "New panel":
+  - heading "New panel" [level=2]
+  - list:
+    - listitem:
+      - button "Edit color for 10"
+      - button "All series selected": "10"
+    - listitem:
+      - button "Edit color for 5"
+      - button "All series selected": "5"
+    - listitem:
+      - button "Edit color for 4"
+      - button "All series selected": "4"
+    - listitem:
+      - button "Edit color for 8"
+      - button "All series selected": "8"
