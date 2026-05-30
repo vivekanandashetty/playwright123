@@ -1,3 +1,5 @@
 Run test:
 
-npx playwright test grafanaDashboard.test.ts
+```shell
+npx playwright test grafanaDashboard.test.ts --reporter=html
+```
